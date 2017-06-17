@@ -1,6 +1,6 @@
 # Web del Taller de Producción de Periodismo de datos Medialab-prado 2017 #tpd17
 
-En construcción.
+Web de los proyectos del 5º Taller de Producción de Periodismo de datos de Medialab-Prado.
 
 
 # Diseño web basado en: 
